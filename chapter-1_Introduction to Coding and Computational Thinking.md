@@ -1,4 +1,6 @@
-# 1.1 Introduction to Coding
+# Chapter 1: Introduction to Coding and Computational Thinking
+
+## 1.1 Introduction to Coding
 
 Coding is the process of creating instructions for a computer to follow, using a programming language that the computer can understand. Coding is a fundamental skill that is needed to use computers and other digital technologies effectively, and it is an essential part of many fields and industries, including software development, data science, web design, and many others.
 
@@ -8,7 +10,7 @@ Coding requires a combination of logical thinking, problem-solving skills, and c
 
 Learning to code can be a rewarding and challenging experience, and it can open up many new opportunities and possibilities. It can also be a lot of fun, and it can provide a sense of accomplishment and satisfaction when a program is successfully written and executed.
 
-## Why Coding is Fun
+### Why Coding is Fun
 One example of why learning to code can be fun is that it allows you to create and build your own programs and projects. This can be a very satisfying and rewarding experience, as you can see the results of your efforts and imagination come to life on the screen.
 
 For example, you might learn to code by creating a simple game, such as a puzzle or a platformer. This can be a lot of fun, as you can use your creativity to design the game, choose the colors and graphics, and write the code that makes the game work. As you progress, you can add more features and challenges to the game, and see how it evolves and improves.
@@ -17,7 +19,7 @@ Another example of why learning to code can be fun is that it can help you solve
 
 Overall, learning to code can be a lot of fun because it allows you to use your creativity and imagination to create and build things, and to see the results of your efforts in action. It can also provide a sense of accomplishment and satisfaction when you successfully complete a program or project, and it can open up many new opportunities and possibilities.
 
-## What new opportunities and possibilities
+### What new opportunities and possibilities
 Learning to code can open up many new opportunities and possibilities, both in terms of careers and personal projects. Some examples of what new opportunities can be open up after learning to code include:
 
 The ability to pursue a career in software development, data science, web design, or other fields that require coding skills. These careers can be very rewarding, both in terms of financial rewards and job satisfaction, and they can provide many opportunities for personal and professional growth.
@@ -30,9 +32,7 @@ The ability to participate in online communities and forums that are dedicated t
 
 Overall, learning to code can open up many new opportunities and possibilities, and it can provide a foundation for a rewarding and fulfilling career or personal pursuit.
 
-# 1.2 What is Computational Thinking?
-
-# What is Computational Thinking?
+## 1.2 What is Computational Thinking?
 
 Computational thinking is a way of solving problems and making decisions, using the same kinds of processes that a computer uses. It involves breaking a problem down into smaller pieces, identifying patterns and relationships, and using logical reasoning to develop solutions and make predictions.
 
@@ -51,9 +51,7 @@ Computational thinking involves several key concepts and processes, including:
 Overall, computational thinking is a powerful and versatile skill that can help us solve complex problems and make better decisions, by applying the principles and methods of computer science to the problem at hand. It is an essential part of many fields and industries, and it is a valuable skill to have in the digital age.
 
 
-# 1.3 Why is Coding and Computational Thinking Important?
-
-# Why is Coding and Computational Thinking Important?
+## 1.3 Why is Coding and Computational Thinking Important?
 
 Coding and computational thinking are important for several reasons, and they are valuable skills to have in the digital age. Some of the key reasons why coding and computational thinking are important include:
 
