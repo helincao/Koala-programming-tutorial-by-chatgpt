@@ -1,9 +1,8 @@
-:::tip
-**Disclaimer**
-Koala is a madeup programming language that never exists. This tutorial is generated with ChatCPT for fun: https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt
-:::
+> **Warning**
+> Koala is a madeup programming language that never exists. This tutorial is generated with ChatCPT for fun: https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt
 
-----
+
+
 
 <div style="page-break-after: always;"></div>
 
