@@ -1,9 +1,10 @@
+# Mastering Koala: A Guide to Coding and Computational Thinking
+
 > **Disclaimer**
 > Koala is a madeup programming language that never exists. 
-> This tutorial is generated with ChatCPT for fun: [https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt](https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt)
+> This tutorial was generated with OpenAI's ChatGPT for fun: [https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt](https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt)
 
-
-
+---
 
 # Introduction to Coding and Computational Thinking
 
