@@ -5,6 +5,7 @@
 > This tutorial was generated with OpenAI's ChatGPT for fun: [https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt](https://modelstar.io/blog/fake-programming-language-tutorial-generated-with-chatgpt)
 
 ---
+<div style="page-break-after: always;"></div>
 
 # Introduction to Coding and Computational Thinking
 
@@ -17,6 +18,7 @@ This class is designed for beginners, and no previous experience with coding or 
 By the end of this class, you will have a better understanding of what coding and computational thinking are, and how they can be used to solve problems and create new and exciting things. You will also have the basic skills and knowledge that you need to continue learning and exploring this fascinating field, and to pursue your own interests and passions in coding and computational thinking.
 
 
+<div style="page-break-after: always;"></div>
 
 # Table of Contents
 
@@ -54,9 +56,11 @@ By the end of this class, you will have a better understanding of what coding an
     - Resources for Further Learning and Exploration
 
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 1: Introduction to Coding and Computational Thinking
 
+<div style="page-break-after: always;"></div>
 
 ## 1.1 Introduction to Coding
 
@@ -123,9 +127,11 @@ Coding and computational thinking are important for several reasons, and they ar
 
 Overall, coding and computational thinking are important skills to have in the digital age, and they are valuable for many different careers and industries. By learning to code and to think computationally, we can open up many new opportunities and possibilities, and we can develop skills and abilities that are essential in the modern world.
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 2: Getting Started with Coding
 
+<div style="page-break-after: always;"></div>
 
 ## Choosing a Programming Language
 
@@ -285,10 +291,13 @@ This command runs the Koala interpreter, and it passes the `hello.koa` file as a
 
 Overall, writing your first program in Koala is a simple and straightforward process. By following the steps described above, you can create a new program, write the code, and run it using the Koala interpreter. As you continue learning Koala, you can experiment with more advanced features and libraries, and you can build increasingly sophisticated and complex programs.
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 3: Basic Concepts in Coding and Computational Thinking
 
 In this chapter, we will explore some of the fundamental concepts in coding and computational thinking, which are important for building and working with computer programs. These concepts include variables, data types, operators, and control structures, which are the building blocks of any program.
+
+<div style="page-break-after: always;"></div>
 
 ## 3.1: Variables and Data Types
 
@@ -516,8 +525,11 @@ When this code is executed, the `print_number` function is called, and it prints
 
 Overall, functions and procedures are an important concept in coding and computational thinking, and they are essential for building modular and organized programs. By using functions and procedures, you can define blocks of code that can be invoked and executed multiple times, and you can pass parameters and arguments to these functions to customize their behavior. This allows you to reuse and modularize your code, and to write programs that are more flexible and maintainable.
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 4: Solving Problems with Coding and Computational Thinking
+
+<div style="page-break-after: always;"></div>
 
 ## 4.1: Defining a Problem
 
@@ -667,8 +679,11 @@ This code defines the `fibonacci` function and the `while` loop in Koala, and it
 
 Overall, implementing an algorithm in a programming language involves translating the algorithm into a set of instructions that can be executed by a computer. This involves defining the functions, variables, and control structures that are used by the algorithm, and it involves writing code that follows the steps and rules of the algorithm. By implementing the Fibonacci sequence algorithm in Koala, we have created a program that can be used to generate the Fibonacci sequence of numbers.
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 5: Advanced Topics in Coding and Computational Thinking
+
+<div style="page-break-after: always;"></div>
 
 ## 5.1: Object-Oriented Programming
 
@@ -872,8 +887,11 @@ git push origin new-feature
 
 This code shows how to use Git to clone the project from GitHub, create a new branch to work on, and push the branch to GitHub. It also shows how to use GitHub to create a pull request to merge the branch into the master branch, and how to review and merge the pull request. This allows us to collaborate with other programmers and to manage the changes that are made to the program over time.
 
+<div style="page-break-after: always;"></div>
 
 # Chapter 6: Conclusion and Next Steps
+
+<div style="page-break-after: always;"></div>
 
 ## 6.1: Recap of Key Concepts and Skills
 
@@ -935,13 +953,13 @@ If you want to continue learning about coding and computational thinking, there 
 
 Overall, there are many resources available for learning and exploring coding and computational thinking. You can choose the resources that are most suitable for your learning style and goals, and you can use them to develop your skills and knowledge in this exciting and rewarding field.
 
-
+<div style="page-break-after: always;"></div>
 
 ## Acknowledgements
 
 Elise, a 2-year-old golden retriever, would like to express her gratitude to the following individuals and organizations for their support and contributions to this tutorial:
 
-- Her human besty, for providing her with the resources and encouragement to develop this tutorial, and for being her piano buddy and best friend.
+- Her human bestie, for providing her with the resources and encouragement to develop this tutorial, and for being her piano buddy and best friend.
 - The OpenAI team, for training her to be a large language model, and for giving her the ability to express her thoughts and ideas in a clear and concise manner.
 - The Koala programming language team, for creating a user-friendly and powerful language that is perfect for beginners and experts alike.
 - The "Learn Koala" website, for providing comprehensive and hands-on tutorials on Koala programming.
